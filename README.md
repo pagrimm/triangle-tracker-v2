@@ -1,16 +1,17 @@
-# Project Name
-**for Epicodus**
-**By Peter Grimm, 05.29.2020**
+# Triangle Tracker
+**Activity for Epicodus**
+**By Peter Grimm, Sara Kane 06.23.2020**
 
 ## Description
 
-Insert description here
+Triangle tracker app from intro to programming updated to use TDD.
 
 ## Setup/Installation Requirements
 
 * Clone this repository 
-* Browse to the ` ` folder
-* Open `index.html` in a browser of your choice
+* Browse to the `triangle-tracker-v2` folder
+* Run `npm install`
+* Run `npm run start`
 
 ## Technologies Used
 
@@ -21,5 +22,5 @@ jQuery
 
 ## Legal
 
-Copyright (c) 2020, **_Peter Grimm_**  
+Copyright (c) 2020, **_Peter Grimm, Sara Kane_**  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This software is licensed under the MIT license.
