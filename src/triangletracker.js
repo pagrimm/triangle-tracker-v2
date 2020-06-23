@@ -5,7 +5,7 @@ export function Triangle(side1, side2, side3) {
 }
 
 
-if ( a+b <= c || b+c <= a || c+a <= b) {
+/* if ( a+b <= c || b+c <= a || c+a <= b) {
   $('#notatriangle').show();
 } else if (a === b && b === c) {
   $('#equilateral').show();
@@ -13,7 +13,8 @@ if ( a+b <= c || b+c <= a || c+a <= b) {
   $('#isoceles').show();
 } else {
   $('#scalene').show();
-}
+} */
+
 
 //Equilateral: All sides are equal.
 //Isosceles: Exactly 2 sides are equal.
